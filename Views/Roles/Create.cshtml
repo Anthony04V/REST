@@ -1,0 +1,26 @@
+﻿@model Cliente_REST_CRUD_SQL.Models.Class_Role
+
+<h2>Create Role</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="RoleName"></label>
+        <input asp-for="RoleName" />
+        <span asp-validation-for="RoleName" style="color:red;"></span>
+    </div>
+    <div>
+        <label asp-for="Description"></label>
+        <input asp-for="Description" />
+        <span asp-validation-for="Description" style="color:red;"></span>
+    </div>
+    <div>
+        <label asp-for="IsActive"></label>
+        <input asp-for="IsActive" type="checkbox" />
+        <span asp-validation-for="IsActive" style="color:red;"></span>
+    </div>
+    <button type="submit">Create</button>
+    
+
+</form>
+
+<a asp-action="Index" asp-controller="Roles">Back to List</a>

@@ -1,0 +1,18 @@
+﻿@model Cliente_REST_CRUD_SQL.Models.Class_Role
+
+<h1>Eliminar Rol</h1>
+
+<h3>¿Estás seguro de que deseas eliminar el siguiente rol?</h3>
+<div>
+    <h4>@Model.RoleName</h4>
+    <p>Descripción: @Model.Description</p>
+    <p>Fecha de creación: @Model.F_Created.ToString("g")</p>
+    <p>Fecha de actualización: @(Model.F_Updated.HasValue ? Model.F_Updated.Value.ToString("g") : "N/A")</p>
+</div>
+
+<form asp-action="Delete" method="post"> <!--La accion de asp nos llama nuestro servicio que queramos utilizar 
+                                               y el method es para usar el que queramos utilizar-->
+    <input type="hidden" asp-for="RoleID" />
+    <button type="submit">Eliminar</button> <!-- Botón de confirmación -->
+    <a asp-action="Index">Cancelar</a> <!-- Botón para cancelar la eliminación -->
+</form>

@@ -1,0 +1,31 @@
+﻿@model Cliente_REST_CRUD_SQL.Models.Class_Role
+
+<h1>Edit Role</h1>
+
+<form asp-action="Edit" method="post">
+    <div>
+        <label for="RoleName">Role Name</label>
+        <input type="text" id="RoleName" name="RoleName" value="@Model.RoleName" required />
+    </div>
+
+    <div>
+        <label for="Description">Description</label>
+        <br/>
+        
+        <textarea id="Description" name="Description" rows="4">@Model.Description</textarea>
+    </div>
+
+    <div>
+        <label for="IsActive">Is Active</label>
+        <input type="checkbox" id="IsActive" name="IsActive" value="true" @(Model.IsActive ? "checked" : "") />
+        <input type="hidden" name="IsActive" value="false" />
+    </div>
+
+
+    <div>
+        <input type="hidden" name="RoleID" value="@Model.RoleID" />
+    </div>
+
+    <button type="submit">Save Changes</button>
+    <a asp-action="Index">Cancel</a>
+</form>

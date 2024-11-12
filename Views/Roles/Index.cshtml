@@ -1,0 +1,52 @@
+﻿@model Cliente_REST_CRUD_SQL.Models.Class_RoleList
+
+<h1>Lista de Roles</h1>
+
+<!-- Formulario de búsqueda -->
+<form action="/Roles/Buscar" method="get">
+    <input type="search" name="query" placeholder="Buscar..." />
+    <button type="submit">Buscar</button>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>Role ID</th>
+            <th>Role Name</th>
+            <th>Description</th>
+            <th>Date Created</th>
+            <th>Date Updated</th>
+            <th>Is Active</th>
+            <th>Actions</th> <!-- Añadido para acciones -->
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model?.Class_Roles != null && Model.Class_Roles.Count > 0)
+        {
+            foreach (var role in Model.Class_Roles)
+            {
+                <tr>
+                    <td>@role.RoleID</td>
+                    <td>@role.RoleName</td>
+                    <td>@role.Description</td>
+                    <td>@role.F_Created.ToString("g")</td>
+                    <td>@(role.F_Updated.HasValue ? role.F_Updated.Value.ToString("g") : "N/A")</td>
+                    <td>@role.IsActive</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@role.RoleID">Edit</a> 
+                        <a asp-action="Delete" asp-route-id="@role.RoleID">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7">No se encontraron roles.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Botón para crear un nuevo rol -->
+<a asp-action="Create" asp-controller="Roles">Create New Role</a> <!-- Asegúrate de que apunte a Roles -->

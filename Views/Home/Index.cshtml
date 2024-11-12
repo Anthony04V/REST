@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page"; // Establece el título de la página
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a nuestra aplicación</h1>
+    <p>Esta es la página principal donde puedes gestionar roles y más.</p>
+
+    <div>
+        <h2>Acciones Disponibles</h2>
+        <ul>
+            <li><a asp-controller="Roles" asp-action="Index">Ver Roles</a></li> <!-- Enlace para ver la lista de roles -->
+            <li><a asp-controller="Roles" asp-action="Create">Crear Nuevo Rol</a></li> <!-- Enlace para crear un nuevo rol -->
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,99 @@
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.csproj.AssemblyReference.cache
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.AssemblyInfoInputs.cache
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.AssemblyInfo.cs
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.csproj.CoreCompileInputs.cache
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.RazorAssemblyInfo.cache
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.RazorAssemblyInfo.cs
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\appsettings.json
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.staticwebassets.runtime.json
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.exe
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.deps.json
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.runtimeconfig.json
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.dll
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.pdb
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.Cliente_REST_CRUD_SQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.build.Cliente_REST_CRUD_SQL.props
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cliente_REST_CRUD_SQL.props
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cliente_REST_CRUD_SQL.props
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\bundle\Cliente_REST_CRUD_SQL.styles.css
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\projectbundle\Cliente_REST_CRUD_SQL.bundle.scp.css
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_.8CD939BF.Up2Date
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.dll
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\refint\Cliente_REST_CRUD_SQL.dll
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.pdb
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.genruntimeconfig.cache
+C:\Users\cgarcia\OneDrive - ULACIT\Documentos\Cristhian G\SW\Yo - más nuevo y completo\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\ref\Cliente_REST_CRUD_SQL.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\appsettings.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.staticwebassets.runtime.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.exe
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.deps.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.runtimeconfig.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.pdb
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.csproj.AssemblyReference.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.AssemblyInfoInputs.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.AssemblyInfo.cs
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.csproj.CoreCompileInputs.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.RazorAssemblyInfo.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.RazorAssemblyInfo.cs
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.Cliente_REST_CRUD_SQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.build.Cliente_REST_CRUD_SQL.props
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cliente_REST_CRUD_SQL.props
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cliente_REST_CRUD_SQL.props
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\bundle\Cliente_REST_CRUD_SQL.styles.css
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\projectbundle\Cliente_REST_CRUD_SQL.bundle.scp.css
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_.8CD939BF.Up2Date
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\refint\Cliente_REST_CRUD_SQL.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.pdb
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.genruntimeconfig.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\ref\Cliente_REST_CRUD_SQL.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\appsettings.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.staticwebassets.runtime.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.exe
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.deps.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.runtimeconfig.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Cliente_REST_CRUD_SQL.pdb
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.csproj.AssemblyReference.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.AssemblyInfoInputs.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.AssemblyInfo.cs
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.csproj.CoreCompileInputs.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.RazorAssemblyInfo.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.RazorAssemblyInfo.cs
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.Cliente_REST_CRUD_SQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.build.Cliente_REST_CRUD_SQL.props
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cliente_REST_CRUD_SQL.props
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cliente_REST_CRUD_SQL.props
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\bundle\Cliente_REST_CRUD_SQL.styles.css
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\scopedcss\projectbundle\Cliente_REST_CRUD_SQL.bundle.scp.css
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_.8CD939BF.Up2Date
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\refint\Cliente_REST_CRUD_SQL.dll
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.pdb
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\Cliente_REST_CRUD_SQL.genruntimeconfig.cache
+C:\Users\20ton\OneDrive - ULACIT ED CR\Desktop\Universidad\Cuatrimestre #6\Servicios Web\Cliente_REST_CRUD_SQL\Cliente_REST_CRUD_SQL\obj\Debug\net8.0\ref\Cliente_REST_CRUD_SQL.dll

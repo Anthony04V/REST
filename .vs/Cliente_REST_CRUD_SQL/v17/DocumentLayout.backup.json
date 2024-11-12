@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\models\\class_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:models\\class_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\views\\roles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:views\\roles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\views\\roles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:views\\roles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\models\\class_rolelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:models\\class_rolelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|c:\\users\\20ton\\onedrive - ulacit ed cr\\desktop\\universidad\\cuatrimestre #6\\servicios web\\cliente_rest_crud_sql\\cliente_rest_crud_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C20A8-95D9-44E8-AD05-E4B81BB0F85F}|Cliente_REST_CRUD_SQL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T00:13:17.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:50:13.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T00:02:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:51:01.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Details.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T00:13:27.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T00:13:05.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class_Role.cs",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Models\\Class_Role.cs",
+              "RelativeDocumentMoniker": "Models\\Class_Role.cs",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Models\\Class_Role.cs",
+              "RelativeToolTip": "Models\\Class_Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:40:40.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Roles\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T00:13:45.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class_RoleList.cs",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Models\\Class_RoleList.cs",
+              "RelativeDocumentMoniker": "Models\\Class_RoleList.cs",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Models\\Class_RoleList.cs",
+              "RelativeToolTip": "Models\\Class_RoleList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:12:08.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T22:30:08.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T02:34:31.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T02:34:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\20ton\\OneDrive - ULACIT ED CR\\Desktop\\Universidad\\Cuatrimestre #6\\Servicios Web\\Cliente_REST_CRUD_SQL\\Cliente_REST_CRUD_SQL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:42:19.422Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 661,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
